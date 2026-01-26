@@ -1,4 +1,4 @@
-About Me
+# About Me
 **Amritha Biju**  
 MA Economics, University of St. Gallen  
 BA Economics, University of Delhi  
